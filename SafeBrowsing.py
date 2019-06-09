@@ -9,10 +9,14 @@ import os
 # Create a variable for my Google API key.
 google_api_key = SafeBrowsing(API-KEY-HERE)
 
-'''creates a funtion that asks the path of the urlList file from the user
+'''
+
+creates a funtion that asks the path of the urlList file from the user
 if the user enters wrong path the programme returne "file does not exists "
 if path is correct, open the file and read through the lines and loop through each line
-and then checks url with lookup client and prints both malicious and safe urls.'''
+and then checks url with lookup client and prints both malicious and safe urls.
+
+'''
 
 def safe_browsing():
         global line
