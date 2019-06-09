@@ -1,4 +1,3 @@
-# Download and install the pysafe library from github:https://github.com/Te-k/pysafe
 # Author: Leo07866
 # Date: 09 June 2019
 
